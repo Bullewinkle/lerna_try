@@ -1,1 +1,4 @@
-console.warn('bar')
+console.warn('foo');
+exports = {
+	name: 'module foo1'
+};

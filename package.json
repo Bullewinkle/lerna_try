@@ -1,0 +1,12 @@
+{
+  "name": "@alol/lerna_try",
+  "devDependencies": {
+    "lerna": "2.0.0-beta.20"
+  },
+  "dependencies": {
+    "@alol/foo": "*",
+    "@alol/bar": "*",
+    "@alol/baz": "*"
+  },
+  "private": false
+}

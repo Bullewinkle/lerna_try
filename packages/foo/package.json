@@ -1,14 +1,15 @@
 {
-  "name": "foo",
-  "version": "0.0.1",
+  "name": "@alol/foo",
+  "version": "0.0.18",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "@alol",
+  "license": "WTFPL",
   "dependencies": {
-    "bar": "^0.0.1"
+    "@alol/bar": "^0.0.18",
+    "repeat-string": "*"
   }
 }

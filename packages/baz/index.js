@@ -1,1 +1,4 @@
-console.warn('bar')
+console.warn('baz');
+exports = {
+	name: 'module baz !!'
+};
