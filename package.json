@@ -1,0 +1,12 @@
+{
+  "name": "@bullewinkle/lerna_try",
+  "devDependencies": {
+    "lerna": "2.0.0-beta.20"
+  },
+  "dependencies": {
+    "@bullewinkle/foo":"*",
+    "@bullewinkle/bar":"*",
+    "@bullewinkle/baz":"*"
+  },
+  "private": false
+}
