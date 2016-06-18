@@ -1,6 +1,6 @@
 {
   "name": "@bullewinkle/foo",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "@bullewinkle",
   "license": "WTFPL",
   "dependencies": {
-    "@bullewinkle/bar": "^0.0.13"
+    "@bullewinkle/bar": "^0.0.14"
   }
 }
