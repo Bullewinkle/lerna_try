@@ -1,15 +1,15 @@
 {
-  "name": "@bullewinkle/bar",
-  "version": "0.0.15",
+  "name": "@alol/bar",
+  "version": "0.0.16",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "@bullewinkle",
+  "author": "@alol",
   "license": "WTFPL",
   "dependencies": {
-    "@bullewinkle/baz": "^0.0.15",
+    "@alol/baz": "^0.0.16",
     "lodash": "*"
   }
 }

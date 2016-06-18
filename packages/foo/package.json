@@ -1,15 +1,15 @@
 {
-  "name": "@bullewinkle/foo",
-  "version": "0.0.15",
+  "name": "@alol/foo",
+  "version": "0.0.16",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "@bullewinkle",
+  "author": "@alol",
   "license": "WTFPL",
   "dependencies": {
-    "@bullewinkle/bar": "^0.0.15",
+    "@alol/bar": "^0.0.16",
     "repeat-string": "*"
   }
 }
