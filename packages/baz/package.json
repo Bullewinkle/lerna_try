@@ -1,11 +1,14 @@
 {
   "name": "@bullewinkle/baz",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "@bullewinkle",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "dependencies": {
+    "jquery": "*"
+  }
 }
