@@ -1,6 +1,6 @@
 {
-  "name": "@bullewinkle-bar",
-  "version": "0.0.3",
+  "name": "@bullewinkle/bar",
+  "version": "0.0.4",
   "description": "test bar",
   "main": "index.js",
   "scripts": {
