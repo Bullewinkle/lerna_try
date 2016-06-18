@@ -1,6 +1,6 @@
 {
   "name": "@alol/bar",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,10 @@
   "author": "@alol",
   "license": "WTFPL",
   "dependencies": {
-    "@alol/baz": "^0.0.18",
+    "@alol/baz": "^0.0.20",
     "lodash": "*"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
   }
 }

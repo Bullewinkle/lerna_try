@@ -1,6 +1,6 @@
 {
   "name": "@alol/baz",
-  "version": "0.0.18",
+  "version": "0.0.20",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,8 @@
   "license": "WTFPL",
   "dependencies": {
     "jquery": "*"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
   }
 }
