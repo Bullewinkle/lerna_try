@@ -1,6 +1,6 @@
 {
   "name": "@bullewinkle/bar",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "test bar",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "baz": "*"
+  },
   "private": false
 }
