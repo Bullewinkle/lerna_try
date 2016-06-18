@@ -1,11 +1,14 @@
 {
   "name": "@bullewinkle/bar",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "@bullewinkle",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "dependencies": {
+    "@bullewinkle/baz": "^0.0.13"
+  }
 }
